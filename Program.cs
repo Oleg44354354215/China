@@ -8,8 +8,16 @@ namespace ConsoleApp7
 {
     internal class Program
     {
+        
         static void Main(string[] args)
+
         {
+            Console.WriteLine("Hello world");
+
+            Console.WriteLine("Chizazez");
+            Console.WriteLine("sanshi");
+
+
         }
     }
 }
